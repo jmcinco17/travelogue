@@ -1,0 +1,21 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Header---------*/
+header{
+    color:white;
+    background-color: hsl(132, 36%, 22%);
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin:100px;
+}
+body{
+    background-color:#b2ceb0
+}
+
+
+section{
+    background-color: hsl(132, 36%, 22%);
+}
